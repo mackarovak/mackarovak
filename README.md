@@ -38,21 +38,12 @@ I like building reliable digital products, automating everything that can be aut
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-contribution-stats.vercel.app/api/?username=mackarovak&theme=dark"
-    alt="GitHub Contribution Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mackarovak&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
+- 🧩 Public repositories: work in progress — moving projects from local to GitHub
+- 🐍 Main languages: Python, C#, C
+- ✅ Focus areas: test automation, backend experiments, learning full‑stack
+- 📅 Using GitHub since 2020, with active periods around studies and work
 
 <p align="center">
   <img
