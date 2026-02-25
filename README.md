@@ -42,23 +42,22 @@ I like building reliable digital products, automating everything that can be aut
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mackarovak&show_icons=true&theme=highcontrast"
-    alt="GitHub stats"
+    src="https://github-contribution-stats.vercel.app/api/?username=mackarovak&theme=dark"
+    alt="GitHub Contribution Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackarovak&layout=compact&theme=highcontrast"
-    alt="Top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mackarovak&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mackarovak&theme=radical"
-    alt="GitHub streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mackarovak&theme=tokyonight"
+    alt="Top languages by repo"
   />
 </p>
 
