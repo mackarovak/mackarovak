@@ -47,8 +47,15 @@ I like building reliable digital products, automating everything that can be aut
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mackarovak&theme=tokyonight"
-    alt="Top languages by repo"
+    src="https://github-contribution-stats.vercel.app/api/?username=mackarovak&theme=dark"
+    alt="GitHub Contribution Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mackarovak&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
