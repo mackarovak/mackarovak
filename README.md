@@ -41,15 +41,15 @@ I like building reliable digital products, automating everything that can be aut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mackarovak&show_icons=true&theme=radical"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mackarovak&show_icons=true&theme=radical&cache_seconds=3600"
     alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackarovak&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackarovak&layout=compact&theme=radical&cache_seconds=3600"
     alt="Top languages"
   />
 </p>
